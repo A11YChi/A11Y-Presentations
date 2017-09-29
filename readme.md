@@ -1,4 +1,4 @@
-#Presentations for Accessibility
+# Presentations for Accessibility
 
 This document provides guidelines for speakers and presenters when creating presentations for an A11YChi meetup event. This is a living document; we will add to it as new items are discovered.
 
