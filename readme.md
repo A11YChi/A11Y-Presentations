@@ -23,8 +23,9 @@ We suggest using a dark background color (ex. black, grey, blue) to host your li
 ### Font Size
 
 #### Suggested Guidance
+![Alt Text](url)
 
-(a11ypres-font-size.PNG "Photo from a11ytoconf from Adrian Roselli on Twitter which says I love that I can read @stephaniehobson’s #a11yTOConf slides from the back of the room (well past the last row).")
+![Photo from a11ytoconf from Adrian Roselli on Twitter which says I love that I can read @stephaniehobson’s #a11yTOConf slides from the back of the room (well past the last row).] (/img/a11ypres-font-size.PNG)
 
 ### Font Weight
 
