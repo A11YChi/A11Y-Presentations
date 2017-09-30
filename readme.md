@@ -32,18 +32,25 @@ Presentations can suffer even more, unexpected contrast issues, as lighting is t
 Ensure contrast between foreground and background colors meet and, preferrably well exceed WCAG 2.0 standards for color contrast. This will help when the projection system, monitor, screen or wall where your slides are being displayed on is less than adequate in presenting your slides in the best possible manner.
 
 ### Font Size
-
-
+As most presentations are created using desktop or laptop monitors in relatively close proximity. When the same slide content is viewed in a laerger room, likely from a distance, this text is likely to be too small to be easily read.
 
 #### Suggested Guidance
 
-Try to use a font size that can easily be viewed, without strain, 
+Try to use a font size that can easily be viewed, without strain, from 100 feet or more. The minimum font size should be about 24 points (if using PowerPoint or Keynote) or 32 pixels (if using HTML/CSS). Headers and subheaders can be much larger, between 40-60 points (if using PowerPoint or Keynote) or 53-80 pixels (if using HTML/CSS).
 
 ![alt text](/img/a11ypres-font-size.PNG "Photo from a11ytoconf from Adrian Roselli on Twitter which says I love that I can read @stephaniehobson’s #a11yTOConf slides from the back of the room (well past the last row).")
 
 ### Font Weight
 
+The weight, or thickness of a typeface can drastically alter the ability to view the text on a slide from a distance.
+
+[ Photo of a slide with a thin weight typeface ]
+
 #### Suggested Guidance
+
+When possible, consider using a medium to thick-weight typeface, which can be more easily see and read from a distance.
+
+[ Photo of a slide with a thick weight typeface ]
 
 ### Amount of Content
 
