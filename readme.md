@@ -17,16 +17,35 @@ Presentations with a light background (ex. white) and dark foreground (ex. text)
 We suggest using a dark background color (ex. black, grey, blue) to host your light (ex. white, light grey) foreground content. The dark color creates an improved negative space for the lighter content.
 
 ### Color Contrast
+Just as WCAG 2.0 guides us on color contrast for the web, these guidelines should also be considered for your slides (aren't slides really just big web pages?). 
+
+WCAG 2.0 requires that the foreground and background colors have a 4.5:1 contrast ratio at Level AA and a 7:1 contrast ratio at Level AAA. You can use a [contrast checker tool](https://developer.paciellogroup.com/resources/contrastanalyser/) to determine what the ratio is between any foreground and background color.
+
+[ Example of color contrast issue with slide]
+
+Presentations can suffer even more, unexpected contrast issues, as lighting is typically not controlled by the organizer. 
+
+[Example of light shinning on slide] 
 
 #### Suggested Guidance
+
+Ensure contrast between foreground and background colors meet and, preferrably well exceed WCAG 2.0 standards for color contrast. This will help when the projection system, monitor, screen or wall where your slides are being displayed on is less than adequate in presenting your slides in the best possible manner.
 
 ### Font Size
 
+
+
 #### Suggested Guidance
+
+Try to use a font size that can easily be viewed, without strain, 
 
 ![alt text](/img/a11ypres-font-size.PNG "Photo from a11ytoconf from Adrian Roselli on Twitter which says I love that I can read @stephaniehobson’s #a11yTOConf slides from the back of the room (well past the last row).")
 
 ### Font Weight
+
+#### Suggested Guidance
+
+### Amount of Content
 
 #### Suggested Guidance
 
