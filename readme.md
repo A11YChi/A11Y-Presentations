@@ -10,6 +10,15 @@ This document provides guidelines for speakers and presenters when creating pres
 ## Overview
 There are several aspects to a presentation that can make them inaccessible to portions of the audience. What follows are observations and guidance to ensure that your presentation is as accessible and inclusive to as many participants as possible.
 
+- - - - -
+
+## Presenter Info
+1. If you have not been asked yet, do you have a headshot and/or brief bio description (1-5 sentences) to share?
+2. Before the presentation, what is your preferred pronouns to be identified on social media and event announcements? For example, "[Jane Doe] is an engineer at [company]. Jane uses she/her pronouns and just recently published her new book!" If you do not want to share, it is totally okay.
+
+- - - - -
+
+
 ## Preparing Presentation Content
 ### Foreground/Background Colors
 Presentations with a light background (ex. white) and dark foreground (ex. text) can be difficult to view by members of your audience. The white background can create a glare that is actually painful for some individuals.
