@@ -23,7 +23,7 @@ There are several aspects to a presentation that can make them inaccessible to p
 ### Foreground/Background Colors
 Presentations with a light background (ex. white) and dark foreground (ex. text) can be difficult to view by members of your audience. The white background can create a glare that is actually painful for some individuals. It also can make viewing the presentation content difficult to view via the live stream.
 
-[ Image of previous presentation with glare ]
+![alt text](https://github.com/A11YChi/A11Y-Presentations/blob/master/img/Presentation-Glare.jpg "Image of Marcy Sutton presenting with light background, dark text presentation slide.")
 
 ##### Suggested Guidance
 We suggest using a dark background color (ex. black, grey, blue) to host your light (ex. white, light grey) foreground content. The dark color creates an improved negative space for the lighter content.
