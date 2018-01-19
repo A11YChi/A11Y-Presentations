@@ -14,14 +14,17 @@ There are several aspects to a presentation that can make them inaccessible to p
 
 ## Presenter Info
 1. If you have not been asked yet, do you have a headshot and/or brief bio description (1-5 sentences) to share?
-2. Before the presentation, what is your preferred pronouns to be identified on social media and event announcements? For example, "[Jane Doe] is an engineer at [company]. Jane uses she/her pronouns and just recently published her new book!" If you do not want to share, it is totally okay.
+2. Before the presentation, **what is your preferred pronouns** to be identified on social media and event announcements? For example, "[Jane Doe] is an engineer at [company]. Jane uses she/her pronouns and just recently published her new book!" If you do not want to share, it is totally okay.
 
 - - - - -
 
 
 ## Preparing Presentation Content
 ### Foreground/Background Colors
-Presentations with a light background (ex. white) and dark foreground (ex. text) can be difficult to view by members of your audience. The white background can create a glare that is actually painful for some individuals.
+Presentations with a light background (ex. white) and dark foreground (ex. text) can be difficult to view by members of your audience. The white background can create a glare that is actually painful for some individuals. It also can make viewing the presentation content difficult to view via the live stream.
+
+[ Image of previous presentation with glare ]
+
 ##### Suggested Guidance
 We suggest using a dark background color (ex. black, grey, blue) to host your light (ex. white, light grey) foreground content. The dark color creates an improved negative space for the lighter content.
 
