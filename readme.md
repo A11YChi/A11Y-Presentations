@@ -46,7 +46,7 @@ Presentations can suffer even more, unexpected contrast issues, as lighting is t
 Ensure contrast between foreground and background colors meet and, preferrably well exceed WCAG 2.0 standards for color contrast. This will help when the projection system, monitor, screen or wall where your slides are being displayed on is less than adequate in presenting your slides in the best possible manner.
 
 ### Font Size
-As most presentations are created using desktop or laptop monitors in relatively close proximity. When the same slide content is viewed in a laerger room, likely from a distance, this text is likely to be too small to be easily read.
+As most presentations are created using desktop or laptop monitors in relatively close proximity. When the same slide content is viewed in a larger room, likely from a distance, this text is likely to be too small to be easily read.
 
 #### Suggested Guidance
 
@@ -58,21 +58,34 @@ Try to use a font size that can easily be viewed, without strain, from 100 feet 
 
 The weight, or thickness of a typeface can drastically alter the ability to view the text on a slide from a distance.
 
-[ Photo of a slide with a thin weight typeface ]
-
 #### Suggested Guidance
 
 When possible, consider using a medium to thick-weight typeface, which can be more easily see and read from a distance.
 
-[ Photo of a slide with a thick weight typeface ]
-
 ### Amount of Content
 
+Try to limit the amount of content on a single, particular slide. Slides with too much content will be difficult to read by the audience and difficult to cover by the presenter (as the presenter should read the content out loud for audience members with low to no vision). Addtionally, the more content you have on a slide, the smaller the text will likely need to be, creating the issues of font size discussed above.
+
+![alt text](https://github.com/A11YChi/A11Y-Presentations/blob/master/img/slide-too-much-text.jpg "Presentation slide with lots of text")
+
 #### Suggested Guidance
+
+There's no explicit guidance on a word or character limit that should be adhered to for a slide. The guidance provided is based on the need to read the content back to the audience; if it feels like too much text to read back, reduce the amount of content. 
+
 
 ### Content Positioning on Slide
 
+Audience members, especially those from the middle-to-back of the room, struggle to read content on the lower portion of a slide. And, as different venues place the receiving screen at different heights, some audience members may only see the backs of the individuals in front of them.
+
+![alt text](https://github.com/A11YChi/A11Y-Presentations/blob/master/img/content-too-low.jpg "Many heads in front of content")
+
+Additionally, the recording of the live stream places text captions in the lower third of the recording. If you have textual content in this area, the caption text will overlay the text on the slide.
+
 #### Suggested Guidance
+
+In general, you should attempt to only use the top two-thirds of real estate on any slide. 
+
+![alt text](https://github.com/A11YChi/A11Y-Presentations/blob/master/img/Slide-Content-Location.jpg "Presentation slide divided vertically in thirds by yellow lines")
 
 ## Presenting the Presentation
 ### Describing Visual Content
