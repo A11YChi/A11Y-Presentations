@@ -19,7 +19,9 @@ There are several aspects to a presentation that can make them inaccessible to p
 - - - - -
 
 ## 2. Video: How to Deliver an Accessible and Inclusive Presentation
-In [_How to Deliver an Accessible and Inclusive Presentation_ (105 mins)](https://www.youtube.com/watch?v=nqnghHm0pxI), digital inclusion and accessibility expert, A11YChi co-organizer, and speaker extraordinaire Fen Slattery will share their expertise for giving inclusive talks, which they’ve developed as a seasoned tech conference speaker. Often, when we’re excited and knowledgable about a topic, our focus on communicating with our audience is missing. It’s so easy to make slides that aren’t readable, to structure our talks in confusing ways, or to use unintentionally harmful language. Just as easily, though, we can consider the needs and identities of our audience members, and avoid placing barriers in the way of learning and engagement.
+In [_How to Deliver an Accessible and Inclusive Presentation_ (105 mins)](https://www.youtube.com/watch?v=nqnghHm0pxI), digital inclusion and accessibility expert, A11YChi co-organizer, and speaker extraordinaire Fen Slattery will share their expertise for giving inclusive talks, which they’ve developed as a seasoned tech conference speaker. 
+
+Often, when we’re excited and knowledgable about a topic, our focus on communicating with our audience is missing. It’s so easy to make slides that aren’t readable, to structure our talks in confusing ways, or to use unintentionally harmful language. Just as easily, though, we can consider the needs and identities of our audience members, and avoid placing barriers in the way of learning and engagement.
 
 View [transcript of _How to Deliver an Accessible and Inclusive Presentation_](https://github.com/A11YChi/transcripts/blob/master/2019-11-19-how-to-deliver-an-accessible-and-inclusive-presentation.md)
 
